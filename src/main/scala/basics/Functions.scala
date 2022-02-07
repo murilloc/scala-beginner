@@ -10,7 +10,6 @@ object Functions extends App {
 
   println(aFunction("Hello", 3));
 
-
   def aParameterlessFunction(): Int = 42
 
   println(aParameterlessFunction())
